@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Users</title>
+</head>
+<body>
+<h1>Список пользователей</h1>
+<ul>
+    <li th:each="user : ${users}">
+        <span th:text="${user.name}">Имя</span> - <span th:text="${user.age}">Возраст</span>
+    </li>
+</ul>
+<a th:href="@{/users/add}">Добавить пользователя</a> <!-- Проверка на правильность маршрута -->
+</body>
+</html>

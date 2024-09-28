@@ -1,0 +1,27 @@
+SpringMvcThymelefHomeWork4/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── ru/
+│   │   │       └── geekbrains/
+│   │   │           ├── controllers/
+│   │   │           │   └── UserController.java
+│   │   │           ├── models/
+│   │   │           │   └── User.java
+│   │   │           └── repositories/
+│   │   │               └── UserRepository.java
+│   │   ├── resources/
+│   │   │   ├── static/
+│   │   │   ├── templates/
+│   │   │   │   ├── users.html
+│   │   │   │   └── addUser.html
+│   │   │   └── application.properties
+│   │   └── webapp/
+│   │       └── WEB-INF/
+│   └── test/
+│       └── java/
+│           └── ru/
+│               └── geekbrains/
+│                   ├── AppTest.java
+│                   └── GreetingControllerTest.java
+└── pom.xml

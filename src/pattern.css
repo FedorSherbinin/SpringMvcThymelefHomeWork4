@@ -10,14 +10,11 @@ SpringMvcThymelefHomeWork4/
 │   │   │           │   └── User.java
 │   │   │           └── repositories/
 │   │   │               └── UserRepository.java
-│   │   ├── resources/
-│   │   │   ├── static/
-│   │   │   ├── templates/
-│   │   │   │   ├── users.html
-│   │   │   │   └── addUser.html
-│   │   │   └── application.properties
-│   │   └── webapp/
-│   │       └── WEB-INF/
+│   │   └── resources/
+│   │       ├── templates/
+│   │       │   ├── users.html
+│   │       │   └── addUser.html
+│   │       └── application.properties
 │   └── test/
 │       └── java/
 │           └── ru/

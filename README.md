@@ -23,7 +23,7 @@
 1. **Клонировать репозиторий:**
 
    ```bash
-   git clone <URL_вашего_репозитория>
+   git clone [<URL_вашего_репозитория>](https://github.com/FedorSherbinin/SpringMvcThymelefHomeWork4.git)
    
 Собрать проект с помощью Maven:
    ```bash

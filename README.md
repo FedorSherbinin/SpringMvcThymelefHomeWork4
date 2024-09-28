@@ -16,7 +16,7 @@
 - **Spring MVC**
 - **Thymeleaf**
 - **H2 Database (или другая по вашему выбору)**
-- **Maven** (или **Gradle**)
+- **Maven**
 
 ## Установка
 
